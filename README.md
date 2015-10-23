@@ -68,5 +68,3 @@ Tip:<br>
 _.templateSettings.interpolate = /{{([\s\S]+?)}}/g;
 ```
 
-
-# zelig
