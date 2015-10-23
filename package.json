@@ -1,6 +1,6 @@
 {
   "name": "zelig",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "get configuration by env",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,22 @@
   },
   "keywords": [
     "env",
-    "configuration"
+    "configuration",
+    "NODE_ENV",
+    "common"
   ],
   "author": "darkylin",
   "license": "MIT",
   "dependencies": {
     "lodash": "^3.10.1",
     "minimist": "^1.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Darkylin/zelig.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Darkylin/zelig/issues"
+  },
+  "homepage": "https://github.com/Darkylin/zelig",
 }
