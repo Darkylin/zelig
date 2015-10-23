@@ -1,0 +1,19 @@
+{
+  "name": "zelig",
+  "version": "1.0.1",
+  "description": "get configuration by env",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "env",
+    "configuration"
+  ],
+  "author": "darkylin",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "minimist": "^1.2.0"
+  }
+}
