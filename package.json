@@ -1,6 +1,6 @@
 {
   "name": "zelig",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "get configuration by env",
   "main": "index.js",
   "scripts": {

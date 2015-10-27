@@ -2,18 +2,21 @@ ZELIG 变色龙
 ===
 
 ## 根据环境变量 NODE_ENV 的值决定使用哪个配置文件
-
-## 一般而言目录结构形如：
 默认环境为production
+
+## 一般而言项目的配置文件目录结构形如：
 
 ```
 |--config
-     |--profiles
-     |     |--development.EXT
-     |     |--beta.EXT
-     |     |--production.EXT
-     |
-     |--common.EXT
+|    |--profiles
+|    |     |--development.EXT
+|    |     |--beta.EXT
+|    |     |--production.EXT
+|    |
+|    |--common.EXT
+|
+|--package.json
+|--...
 ```
 
 ## 支持的配置文件：
